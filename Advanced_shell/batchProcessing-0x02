@@ -1,4 +1,5 @@
 #!/bin/bash
+# implement batch processing
 
 pokemon_list='[Bulbasaur, Ivysaur, Venusaur, Charmander, Charmeleon]'
 #["bulbasaur", "ivysaur", "venusaur", "charmander", "charmeleon"]
